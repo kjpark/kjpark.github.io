@@ -1,21 +1,57 @@
 :root {
-	margin-top: 3em;
-}
-
-h1, h3, h4, h5, p {
+	background-color: #444;
+	height: 100vh;
+	width: 100vw;
+	position: fixed;
 	text-align: center;
-	font-family: Monaco, Consolas, "Lucida Console", monospace;
+	color: #FFF;
+	font-family: Consolas, monaco, monospace;
+	/*for placeholder only*/
+	font-size: 1.5vh;
+}
+.contained {
+	width: 90vw;
+	margin: 0 auto 0 auto;
 }
 
-div {
-	text-align: center;
+.header {
+	text-align: left;
+	background-color: #333;
+	line-height: 8vh;
 }
 
-div a {
+/*
+
+Nav Styles
+
+*/
+
+nav a {
 	text-decoration: none;
+	color: #EEE;
+	display: inline-block;
+	width: 25vw;
+	height: 4vh;
 }
 
-div img {
-	margin-left: .75em;
-	margin-right: .75em;
+nav a img {
+	height: 3.5vh;
 }
+
+a[href="#home"] {
+	background-color: #61C1FF;
+}
+
+a[href="#write"] {
+	background-color: #A74DE8;
+}
+
+a[href="#love"] {
+	background-color: #4DE867;
+}
+
+a[href="#lock"] {
+	background-color: #FF9D39;
+}
+
+/*90f*/
