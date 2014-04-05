@@ -1,0 +1,21 @@
+:root {
+	margin-top: 3em;
+}
+
+h1, h3, h4, h5, p {
+	text-align: center;
+	font-family: Monaco, Consolas, "Lucida Console", monospace;
+}
+
+div {
+	text-align: center;
+}
+
+div a {
+	text-decoration: none;
+}
+
+div img {
+	margin-left: .75em;
+	margin-right: .75em;
+}
