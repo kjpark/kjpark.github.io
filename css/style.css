@@ -67,15 +67,15 @@ footer a {
 	width: 33.3333vw;
 }
 
-a[href="#keybase"] {
+a[href="https://keybase.io/kjpark"] {
 	background-color: #FB1;
 }
 
-a[href="#twitter"] {
+a[href="https://twitter.com/jedidiahpark"] {
 	background-color: #00aced;
 }
 
-a[href="#github"] {
+a[href="https://github.com/kjpark"] {
 	background-color: #222;
 }
 
