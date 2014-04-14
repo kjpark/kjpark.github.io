@@ -26,7 +26,8 @@ Nav Styles
 
 */
 
-nav a {
+nav a,
+footer a {
 	text-decoration: none;
 	color: #EEE;
 	display: inline-block;
@@ -34,7 +35,8 @@ nav a {
 	height: 4vh;
 }
 
-nav a img {
+nav a img,
+footer a img {
 	height: 3.5vh;
 }
 
@@ -50,8 +52,31 @@ a[href="#love"] {
 	background-color: #4DE867;
 }
 
-a[href="#lock"] {
+a[href="#read"] {
 	background-color: #FF9D39;
+}
+
+/**/
+
+footer {
+	position: absolute;
+	bottom: 0;
+}
+
+footer a {
+	width: 33.3333vw;
+}
+
+a[href="https://keybase.io/kjpark"] {
+	background-color: #FB1;
+}
+
+a[href="https://twitter.com/jedidiahpark"] {
+	background-color: #00aced;
+}
+
+a[href="https://github.com/kjpark"] {
+	background-color: #222;
 }
 
 /*90f*/
