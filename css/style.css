@@ -7,7 +7,7 @@
 	color: #FFF;
 	font-family: Consolas, monaco, monospace;
 	/*for placeholder only*/
-	font-size: 1.5vh;
+	font-size: 1.5em;
 }
 .contained {
 	width: 90vw;
@@ -32,12 +32,13 @@ footer a {
 	color: #EEE;
 	display: inline-block;
 	width: 25vw;
-	height: 4vh;
+	height: 2em;
 }
 
 nav a img,
 footer a img {
-	height: 3.5vh;
+	padding-top: .2em;
+	height: 1.5em;
 }
 
 a[href="#home"] {
@@ -64,7 +65,7 @@ footer {
 }
 
 footer a {
-	width: 33.3333vw;
+	width: calc(100vw / 3);
 }
 
 a[href="https://keybase.io/kjpark"] {
