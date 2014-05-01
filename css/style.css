@@ -2,7 +2,6 @@
 	background-color: #444;
 	height: 100vh;
 	width: 100vw;
-	position: fixed;
 	text-align: center;
 	color: #FFF;
 	font-family: Consolas, monaco, monospace;
@@ -16,11 +15,15 @@ Nav Styles
 
 */
 
+.reveal {
+	position: fixed;
+}
+
 nav a,
 footer a {
+	display: inline-block;
 	text-decoration: none;
 	color: #EEE;
-	display: inline-block;
 	width: 25vw;
 	height: 2em;
 }

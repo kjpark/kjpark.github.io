@@ -1,8 +1,9 @@
 <html>
 <head>
 	<title>Hello World!</title>
-	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link rel="stylesheet" type="text/css" href="css/normalize.css">
+	<link rel="stylesheet" type="text/css" href="revealjs/css/reveal.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
 <!-- Nav -->
@@ -14,13 +15,23 @@
 	><a href="#write"><img src="img/quill.svg"></a>
 </nav>
 <!-- Slides -->
-<div>
-	<h1>Hi!</h1>
-	<h3>~~~ We're still under development ~~~</h3>
-	<p>(^)(^)<br>
-	(=^-^)<br>
-	C(")(")</p>
-	<h3>Have a nice day! &lt;3</h3>
+<div class="reveal">
+	<div class="slides">
+		<section id="home" data-background="#61C1FF">
+			<h1>Hi, I'm Jedidiah</h1>
+			<p>Nice to meet you :)</p>
+			<p>(We're still under construction)</p>
+		</section>
+		<section id="love" data-background="#4DE867">
+			<h2>&lt;3</h2>
+		</section>
+		<section id="read" data-background="#FF9D39">
+			<h2>Blog XP<h2>
+		</section>
+		<section id="write" data-background="#A74DE8">
+			<h2>Send me a message or something...</h2>
+		</section>
+	</div>
 </div>
 <footer>
 	<a href="https://keybase.io/kjpark"><img src="img/key.svg"></a
@@ -31,6 +42,16 @@
 <script type="text/javascript" src='js/jquery-2.0.0.min.js'></script>
 <script type="text/javascript" src='js/jquery.transit.min.js'></script>
 <script type="text/javascript" src='js/action.js'></script>
+<!-- reveal.js -->
+<script src="revealjs/lib/js/head.min.js"></script>
+<script src="revealjs/js/reveal.min.js"></script>
+<script>
+	Reveal.initialize({
+		controls: false,
+		transition: 'linear',
+		backgroundTransition: 'slide'
+	});
+</script>
 <!-- Google Analytics -->
 <script type="text/javascript">
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
