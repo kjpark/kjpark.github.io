@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/kjpark
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kjpark.github.io
+  * I am kjpark (https://keybase.io/kjpark) on keybase.
+  * I have a public key with fingerprint 0112 849A B1B7 0D10 31FF  0BCF 480F 4ECF 2253 87B1
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010166bbfbb7f852bcdceda463ec273607dbaae9674fd6947e42ddef3e7887dc9e590a",
+      "fingerprint": "0112849ab1b70d1031ff0bcf480f4ecf225387b1",
+      "host": "keybase.io",
+      "key_id": "480f4ecf225387b1",
+      "kid": "010166bbfbb7f852bcdceda463ec273607dbaae9674fd6947e42ddef3e7887dc9e590a",
+      "uid": "14362860308183cd47e4569f466c7900",
+      "username": "kjpark"
+    },
+    "service": {
+      "hostname": "kjpark.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1515380133,
+  "expire_in": 157680000,
+  "prev": "bd2ae4065715c5467197ce7489bd12f988243fc036b42cd479f2f5cd58e18a74",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMIkAnicrVJbSBRRGB5ra1sxNbpAUgRDN2qLc+Y+q9lDWr0okU9puM2Zc846aTPb
+zKy2iBJdiC7UgwXR7SUCu2FFdnvpoiZlaVFGWWaZL2YRQReixZrZ6iHosfNyOP//
+fd//fT+nfeJYJjPjy4qAyRTmlmR03TyUYMpX95+oZ5GFk2yknq0m6YvUYOK40WoD
+sxEWQAAlCSGKkEwVkUM61gnWBIknOifzEpAx0jSiSrJAsaQKMhE4jAnliawoMtZV
+IqpAY8MsNcwYseO2YbppWcgpgqohiGSAIeAhpQDpVFAAFYhOOU7kFRlBj1hlOT7D
+M4c0hyw2LK/mPaJpe//A/2ffibQcFHiJUyTAAwUqvI59vCipVJAkXVYB8IEOsU1t
+A/G9ro9rdjXbEGa9Wq2hE3+tfo6/+otjhluVQL8SxW3LtXSrxutWuW7cifhsNxn3
+4XUERX8LRZFhYm+THqOW2I5hmWwEekjdNXxlKEJvDwDyfJglm+KGTaKGjxBlSQHe
+8eeQWk8SYU4jApBEGYq6KEgyVGWdyIKiIgw5qioKJ/BUB7yEBM6Pq1KOijoWFQIV
+TRZYP9pG0/K0vVGuFvM0HSNmam7CJmzDrRtrA0xGJjN+3Bj/izGZodw/H29+TvBH
+w93YvUu9Wc/vHDxVu2DnExx40FdRljNr/7zTFam8MUVbnkzbfmRXcDIZSXY/akxc
+GkpNcEpXLh8evJocMFb2f3zb90EM32rMWlKgFUo9gWhL6fV3MyLb6MIXYM7x4TP7
+PjUX7wiKJ4vK7Xud33qyD3SFJt1PPXy6ixQyZ7KbrpCv18w5+eGSV4+LK5Y2W+39
+9buXbR6tXNt/ds/T0JujM0eGptvF61onGYMpMPP13pMDKfpy+daO0OiiqW0F51e9
+nF2cRE0DG4pQb+ft3FKE8maPfz/rQnxuftszNudz92WxsvWYVjbBqvzOK9i+OPos
+OOXcvLqS3KbDLUzH+qztay7/BJ6bP98=
+=eZ4O
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kjpark
+
+==================================================================
+
