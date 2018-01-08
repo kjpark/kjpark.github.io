@@ -1,4 +1,4 @@
 kjpark.github.io
-======
-Please enjoy the placeholder
-while we rebuild :)
+================
+This is my personal website. It's not meant to be anything super fancy. It's
+just so that I have some centralized online presence. (For now anyways).
