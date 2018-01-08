@@ -1,0 +1,8 @@
+.logo {
+    width: 5em;
+}
+
+.address {
+    text-transform: none;
+    font-family: monospace;
+}
